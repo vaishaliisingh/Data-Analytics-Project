@@ -1,4 +1,4 @@
-# Data-Analytics-With-Databricks
+# Data-Analytics-Project
 
 # Data Analytics Project
 
