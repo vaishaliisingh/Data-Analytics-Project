@@ -1,7 +1,5 @@
 # Data-Analytics-Project
 
-# Data Analytics Project
-
 ## Project Overview
 This repository hosts a data analytics project utilizing Databricks, Apache Spark, and PySpark. The project encompasses the entire data analytics pipeline, including loading, cleaning, transforming, and analyzing a dataset. It showcases big data processing skills and sets the foundation for future predictive analysis and visualization efforts.
 
